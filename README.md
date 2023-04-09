@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/tin-nandar-liman/
 - 😄 Future Goals: I want to learn everything about Data Science and Machine Learning to become a data scientist for myself in the future.
 - ⚡ Fun fact: I love to connnect people through Github and LinkedIn to learn more about their professional experience and their projects.
-
+-->
 
 Education
 
