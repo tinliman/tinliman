@@ -43,7 +43,7 @@ Bachelor in Computer Sciences B.CSc
   
 •	Put all the data using Pandas DataFrame consisting 126 rows x 6 columns into 4software_company.csv
 
-### Tableau Dashboard on Bookshop Data (View)
+### Tableau Dashboard on Bookshop Data [View](https://public.tableau.com/app/profile/tin.liman/viz/BookshopAssignment_16713188435100/BookshopAssignment)
 
 •	Created average rating per Monthly checkout treemap that will show all the details about the sales etc. 
   
