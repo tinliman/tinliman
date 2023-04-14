@@ -4,15 +4,14 @@ Hi there 👋  data scientists
 
 ### About Me
 
-With over 5 years of experience in the insurance industry, I am a highly skilled MBA graduate who is able to lead teams and develop innovative solutions to complex problems. My experience in underwriting and claims management has given me a deep understanding of risk assessment and management, and I'm able to quickly adapt to changes in the industry. Through my MBA program, I've gained expertise in analysis, strategic thinking, leadership, and project management, which have allowed me to successfully lead cross-functional teams and drive business results. I have a passion for data science and machine learning. Currently, i'm learning Data Science with 500 + hours of coursework, 14 assignments and 3 real-world projects (Web Scraping, EDA, Machine Learning)
+With over 5 years of experience in the insurance industry, I am a highly skilled MBA graduate who is able to lead teams and develop innovative solutions to complex problems. My experience in underwriting and claims management has given me a deep understanding of risk assessment and management, and I'm able to quickly adapt to changes in the industry. Through my MBA program, I've gained expertise in analysis, strategic thinking, leadership, and project management, which have allowed me to successfully lead cross-functional teams and drive business results. I have a passion for data science and machine learning. 
 
-Proficient in the following skills: SQL, Python, Numpy, Pandas, Excel, Power BI, Git, R, Web Development, Presentation
 
 ### I have completed
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
-Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scraping, EDA, Machine Learning, Tableau)
 
 
 ## Education
@@ -65,6 +64,7 @@ Here are some ideas to get you started:
 -  All my projects are availabe on [Jovian Profile](https://jovian.com/tinliman21)
 - 🌱 I’m currently learning everything about Data Science and Machine Learning!
 - 📫 How to reach me: [contact email](tinliman21@gmail.com)
+- Proficient in the following skills: SQL, Python, Numpy, Pandas, Excel, Power BI, Git, R, Web Development, Presentation
 - 😄 Future Goals: I want to learn everything about Data Science and Machine Learning to become a data scientist for myself in the future.
 - ⚡ Fun fact: I love to connnect people through Github and LinkedIn to learn more about their professional experience and their projects.
 
