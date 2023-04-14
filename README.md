@@ -2,6 +2,12 @@ Hi there 👋  data scientists
 
 [LinkedIn Website](https://www.linkedin.com/in/tin-nandar-liman/)
 
+### About Me
+
+With over 5 years of experience in the insurance industry, I am a highly skilled MBA graduate who is able to lead teams and develop innovative solutions to complex problems. My experience in underwriting and claims management has given me a deep understanding of risk assessment and management, and I'm able to quickly adapt to changes in the industry. Through my MBA program, I've gained expertise in analysis, strategic thinking, leadership, and project management, which have allowed me to successfully lead cross-functional teams and drive business results. I have a passion for data science and machine learning. Currently, i'm learning Data Science with 500 + hours of coursework, 14 assignments and 3 real-world projects (Web Scraping, EDA, Machine Learning)
+
+Proficient in the following skills: SQL, Python, Numpy, Pandas, Excel, Power BI, Git, R, Web Development, Presentation
+
 ### I have completed
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
@@ -55,7 +61,7 @@ Bachelor in Computer Sciences B.CSc
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Car Insurance Claims Prediction project! 
+- 🔭 I’m currently working on Machine Learning Car Insurance Claims Prediction project! 
 -  All my projects are availabe on [Jovian Profile](https://jovian.com/tinliman21)
 - 🌱 I’m currently learning everything about Data Science and Machine Learning!
 - 📫 How to reach me: [contact email](tinliman21@gmail.com)
