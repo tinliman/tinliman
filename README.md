@@ -64,11 +64,17 @@ Bachelor in Computer Sciences B.CSc
 
 
 - 🔭 I’m currently working on Machine Learning Car Insurance Claims Prediction project! 
+
 -  All my projects are availabe on [Jovian Profile](https://jovian.com/tinliman21)
+-
 - 🌱 I’m currently learning everything about Data Science and Machine Learning!
+
 - 📫 How to reach me: [contact email](tinliman21@gmail.com)
+
 - Proficient in the following skills: SQL, Python, Numpy, Pandas, Excel, Power BI, Git, R, Web Development, Presentation
+
 - 😄 Future Goals: I want to learn everything about Data Science and Machine Learning to become a data scientist for myself in the future.
+
 - ⚡ Fun fact: I love to connnect people through Github and LinkedIn to learn more about their professional experience and their projects.
 
 
