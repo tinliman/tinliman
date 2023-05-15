@@ -31,6 +31,14 @@ Bachelor in Computer Sciences B.CSc
 
 ## My Projects
 
+### Machine Learning for Car Insurance Claim Prediction Project (Currently working)
+
+•	Cleaned & analyzed retail store dataset with 58,000+ rows & 44 columns to predict the policyholder files a claim in the next 6 months or not.
+•	Trained logistic models, random forests, and gradient boosted trees using scikit-learn & XGBoost
+•	Trying to get a Training Accuracy: 1.0 and Test Accuracy: 0.95
+![image](https://github.com/tinliman/tinliman/assets/121786148/308fe00f-0c18-428b-a633-c80ef819c082)
+
+
 ### EDA (Exploratory Data Analysis) Project for Fraud Credit Card Transactions [View](https://github.com/tinliman/Exploratory-Data-Analysis-Project)
 
 •	Used Pandas DataFrame to load 1.2 millions+ rows and 23 columns to check and explore 
