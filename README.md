@@ -35,9 +35,9 @@ Bachelor in Computer Sciences B.CSc
 
 •	Cleaned & analyzed retail store dataset with 58,000+ rows & 44 columns to predict the policyholder files a claim in the next 6 months or not.
 
-•	Trained logistic models, random forests, and gradient boosted trees using scikit-learn & XGBoost
+•	Trained logistic models, random forests, and gradient boosted trees using Scikit-Learn & XGBoost
 
-•	Trying to get a Training Accuracy: 1.0 and Test Accuracy: 0.95
+•	Got a Training Accuracy: 1.0 and Test Accuracy: 0.75
 
 
 
