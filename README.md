@@ -37,7 +37,7 @@ Bachelor in Computer Sciences B.CSc
 
 •	Trained logistic models, random forests, and gradient boosted trees using Scikit-Learn & XGBoost
 
-•	Got a Training Accuracy: 1.0 and Test Accuracy: 0.75
+•	Got a Test Accuracy: 0.93
 
 
 
