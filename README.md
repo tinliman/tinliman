@@ -31,7 +31,7 @@ Bachelor in Computer Sciences B.CSc
 
 ## My Projects
 
-### Machine Learning for Car Insurance Claim Prediction Project 
+### Machine Learning for Car Insurance Claim Prediction Project [View](https://github.com/tinliman/Car-Insurance-Claims-Prediction-Machine-Learning-Project)
 
 •	Cleaned & analyzed retail store dataset with 58,000+ rows & 44 columns to predict the policyholder files a claim in the next 6 months or not.
 
