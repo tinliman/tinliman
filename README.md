@@ -72,9 +72,9 @@ Bachelor in Computer Sciences B.CSc
 ### Insights
 
 
-- 🔭 I’m currently working on Machine Learning Car Insurance Claims Prediction project! 
+- 🔭 I recently done working on Machine Learning Car Insurance Claims Prediction project! 
 
--  All my projects are availabe on [Jovian Profile](https://jovian.com/tinliman21)
+-  All my projects are available on [Jovian Profile](https://jovian.com/tinliman21)
 
 - 🌱 I’m currently learning everything about Data Science and Machine Learning!
 
@@ -84,7 +84,7 @@ Bachelor in Computer Sciences B.CSc
 
 - 😄 Future Goals: I want to learn everything about Data Science and Machine Learning to become a data scientist for myself in the future.
 
-- ⚡ Fun fact: I love to connnect people through Github and LinkedIn to learn more about their professional experience and their projects.
+- ⚡ Fun fact: I love to connect people through Github and LinkedIn to learn more about their professional experience and their projects.
 
 
 
