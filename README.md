@@ -66,8 +66,12 @@ Bachelor in Computer Sciences B.CSc
   
 •	Used bar plot to show how the sales is going on based on its monthly store's ratings
 
+### Tableau Project: World Happiness (sheet 1) [View](https://public.tableau.com/app/profile/tin.liman/viz/WorldHappiness_16518975948630/Dashboard1) 
+### World Happiness (sheet 2) [View](https://public.tableau.com/app/profile/tin.liman/viz/JusttheData-WorldHappinessbyTinLiman/Sheet2)
 
+- Showing the Happiness Scores based on their Health, Economy, Generosity, Family
 
+- Showing the Happiness Scores across the World's Map.
 
 ### Insights
 
