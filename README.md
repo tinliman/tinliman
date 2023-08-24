@@ -1,5 +1,6 @@
 Hi there 👋  data scientists
 
+[Portfolio Website](https://www.datascienceportfol.io/tliman21)
 [LinkedIn Website](https://www.linkedin.com/in/tin-nandar-liman/)
 
 ### About Me
@@ -71,7 +72,7 @@ Bachelor in Computer Sciences B.CSc
 
 - Showing the Happiness Scores based on their Health, Economy, Generosity, Family
 
-- Showing the Happiness Scores across the World's Map.
+- Showing the Happiness Scores across the World's Map
 
 ### Insights
 
