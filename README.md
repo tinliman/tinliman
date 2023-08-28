@@ -68,6 +68,14 @@ Bachelor in Computer Sciences B.CSc
   
 •	Used bar plot to show how the sales is going on based on its monthly store's ratings
 
+### Tableau Dashboard on House Loan Data Analysis [View](https://public.tableau.com/app/profile/tin.liman/viz/HouseLoanDataAnalysis/Dashboard1)
+
+* Created Barchart for the amount of Loan that required by the Bureau based on the Total Income
+  
+* Showing the comparison for the Organization type and the amount required for the Credit
+
+* Created chart based on the Home type that people usually picked based on their Occupation and Income Level
+
 ### Tableau Project: World Happiness (sheet 1) [View](https://public.tableau.com/app/profile/tin.liman/viz/WorldHappiness_16518975948630/Dashboard1) 
 ### World Happiness (sheet 2) [View](https://public.tableau.com/app/profile/tin.liman/viz/JusttheData-WorldHappinessbyTinLiman/Sheet2)
 
