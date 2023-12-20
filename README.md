@@ -18,6 +18,8 @@ Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scr
 
 ## Education
 
+### Business Science University                                                           Oct 2023 - current
+
 ### Data Science Bootcamp, Jovian (View)                                                   Oct 2022 - June 2023
                                                                     
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
