@@ -4,6 +4,8 @@ Hi there 👋  data scientists
 
 [LinkedIn Website](https://www.linkedin.com/in/tin-nandar-liman/)
 
+[Shiny App Website](https://tinliman.shinyapps.io/sales_dashboard_forecast_app/)
+
 ### About Me
 
 With over 5 years of experience in the insurance industry, I am a highly skilled MBA graduate who is able to lead teams and develop innovative solutions to complex problems. My experience in underwriting and claims management has given me a deep understanding of risk assessment and management, and I'm able to quickly adapt to changes in the industry. Through my MBA program, I've gained expertise in analysis, strategic thinking, leadership, and project management, which have allowed me to successfully lead cross-functional teams and drive business results. I have a passion for data science and machine learning. 
