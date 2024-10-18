@@ -98,7 +98,7 @@ Bachelor in Computer Sciences B.CSc
 
 - 📫 How to reach me: [contact email](tinliman21@gmail.com)
 
-- Proficient in the following skills: SQL, Python, Numpy, Pandas, Excel, Power BI, Git, R, Web Development, Presentation
+- Proficient in the following skills: SQL, Python, R, scikit-learn, Numpy, Pandas, Excel, Power BI, Git, Web Development, Presentation
 
 - 😄 Future Goals: I want to learn everything about Data Science and Machine Learning to become a data scientist for myself in the future.
 
