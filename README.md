@@ -23,6 +23,8 @@ Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scr
 ### Business Science University                                                           Oct 2023 - June 2024
 R Programming, Tidyverse, H2O AutoML, High Performance Time Series Forecasting, 
 Shiny Predictive Sales DashBoard, Feature Engineering, Amazon AWS EC2
+
+
 Courses:
 Data Import: readr & odbc
 Data Cleaning & Wrangling: dplyr & tidyr
