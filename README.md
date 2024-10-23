@@ -51,7 +51,12 @@ Bachelor in Computer Sciences B.CSc
 
 ## My Projects
 
-### Customer-Segmentation-Project-using-R
+### Sales Dashboard Forecast App [View](https://github.com/tinliman/Sales-Dashboard-Forecast-App)
+
+•	The sales dashboard leverages Flexdashboard and Shiny to create a dynamic and responsive user experience. 
+•	Users can input various parameters, such as time periods, product categories, or geographical regions, to customize their analysis and view sales data from different perspectives. 
+
+### Customer-Segmentation-Project-using-R [View](https://github.com/tinliman/Sales-Dashboard-Forecast-App)
 
 Solution Summary
 The data Science team has identified 4 customer segments.The 4 customer segments were given descriptions based on the customer’s top product purchases.
