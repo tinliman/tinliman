@@ -20,7 +20,17 @@ Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scr
 
 ## Education
 
-### Business Science University                                                           Oct 2023 - current
+### Business Science University                                                           Oct 2023 - June 2024
+
+Data Import: readr & odbc
+Data Cleaning & Wrangling: dplyr & tidyr
+Time Series, Text, & Categorical Data: lubridate, stringr, & forcats
+Visualization: ggplot2
+Functions & Iteration: purrr
+Modeling & Machine Learning: parnsip (xgboost, glmnet, kernlab, broom, & more)
+Business Reporting: rmarkdown
+Data Import: readr & odbc Data Cleaning & Wrangling: dplyr & tidyr Time Series, Text, & Categorical Data: lubridate, stringr, & forcats Visualization: ggplot2 Functions & Iteration: purrr Modeling & Machine Learning: parnsip (xgboost, glmnet, kernlab, broom, & more) Business Reporting: rmarkdown
+Skills: Business Analytics · Web Applications · Statistical Data Analysis · Interpreting Data · Deep Learning · Presentation Preparation · Data Management · Data Science · R (Programming Language) · Machine Learning
 
 ### Data Science Bootcamp, Jovian (View)                                                   Oct 2022 - June 2023
                                                                     
@@ -37,6 +47,19 @@ Bachelor in Computer Sciences B.CSc
 
 ## My Projects
 
+### Customer-Segmentation-Project-using-R
+
+Solution Summary
+The data Science team has identified 4 customer segments.The 4 customer segments were given descriptions based on the customer’s top product purchases.
+
+Segment 1 Preferences: Road Bikes, Below $3200 (Economical Models)
+
+Segment 2 Preferences: Mountain Bikes, Above $3200 (Premium Models)
+
+Segment 3 Preferences: Road Bikes, Above $3200 (Premium Models)
+
+Segment 4 Preferences: Both Road and Mountain Bikes, Below $3200 (Economical Models)
+
 ### Machine Learning for Car Insurance Claim Prediction Project [View](https://github.com/tinliman/Car-Insurance-Claims-Prediction-Machine-Learning-Project)
 
 •	Cleaned & analyzed retail store dataset with 58,000+ rows & 44 columns to predict the policyholder files a claim in the next 6 months or not.
@@ -44,7 +67,6 @@ Bachelor in Computer Sciences B.CSc
 •	Trained logistic models, random forests, and gradient boosted trees using Scikit-Learn & XGBoost
 
 •	Achieved Test accuracy of 0.93 after hyperparameter tuning
-
 
 
 ### EDA (Exploratory Data Analysis) Project for Fraud Credit Card Transactions [View](https://github.com/tinliman/Exploratory-Data-Analysis-Project)
