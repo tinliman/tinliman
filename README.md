@@ -4,6 +4,8 @@ Hi there 👋  data scientists
 
 [LinkedIn Website](https://www.linkedin.com/in/tin-nandar-liman/)
 
+[DataCamp Portfolio](https://www.datacamp.com/portfolio/tinliman21)
+
 [Shiny App Website](https://tinliman.shinyapps.io/sales_dashboard_forecast_app/)
 
 ### About Me
