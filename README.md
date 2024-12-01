@@ -38,7 +38,6 @@ Skills: Business Analytics · Web Applications · Statistical Data Analysis · I
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scraping, EDA, ML)
-![image](https://github.com/user-attachments/assets/52aa9584-5282-4e61-886c-3c8c8e2a0a15)
 
 ## Education
 
