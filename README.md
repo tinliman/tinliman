@@ -13,12 +13,32 @@ Hi there 👋  data scientists
 With over 5 years of experience in the insurance industry, I am a highly skilled MBA graduate who is able to lead teams and develop innovative solutions to complex problems. My experience in underwriting and claims management has given me a deep understanding of risk assessment and management, and I'm able to quickly adapt to changes in the industry. Through my MBA program, I've gained expertise in analysis, strategic thinking, leadership, and project management, which have allowed me to successfully lead cross-functional teams and drive business results. I have a passion for data science and machine learning. 
 
 
+### Skills
+
+#### Technical Skills
+•	Programming & Tools: Python, R, SQL, VBA, SAS (insurance-specific), Pandas, NumPy, Tableau, Microsoft Excel (Advanced), Power BI, Git
+•	Database Management: SQL, MySQL, PostgreSQL, MongoDB
+•	Machine Learning & Statistics: Scikit-learn, Tidyverse, H2O AutoML, Regression Analysis, Clustering
+•	Insurance-Specific Tools: Guidewire, Actuarial Models, Risk Analysis Software
+•	Cloud Platforms: AWS, Azure, Google Cloud
+#### Additional Skills
+•	Data Science Techniques: Data Visualization, Predictive Modeling, Web Development, Automation
+•	Soft Skills: Analytical Thinking, Problem-Solving, Effective Communication, Time Management, Collaboration
+
 ### I have completed
+Data Import: readr & odbc
+Data Cleaning & Wrangling: dplyr & tidyr
+Time Series, Text, & Categorical Data: lubridate, stringr, & forcats
+Visualization: ggplot2
+Functions & Iteration: purrr
+Modeling & Machine Learning: parnsip (xgboost, glmnet, kernlab, broom, & more)
+Business Reporting: rmarkdown
+Data Import: readr & odbc Data Cleaning & Wrangling: dplyr & tidyr Time Series, Text, & Categorical Data: lubridate, stringr, & forcats Visualization: ggplot2 Functions & Iteration: purrr Modeling & Machine Learning: parnsip (xgboost, glmnet, kernlab, broom, & more) Business Reporting: rmarkdown
+Skills: Business Analytics · Web Applications · Statistical Data Analysis · Interpreting Data · Deep Learning · Presentation Preparation · Data Management · Data Science · R (Programming Language) · Machine Learning
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-
-Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scraping, EDA, Machine Learning, Tableau)
-
+Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scraping, EDA, ML)
+![image](https://github.com/user-attachments/assets/52aa9584-5282-4e61-886c-3c8c8e2a0a15)
 
 ## Education
 
