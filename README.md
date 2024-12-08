@@ -20,11 +20,12 @@ Results-oriented data professional with expertise in data analytics, machine lea
 ### Skills
 
 #### Technical Skills
-•	Programming & Tools: Python, R, SQL, VBA, SAS (insurance-specific), Pandas, NumPy, Tableau, Microsoft Excel (Advanced), Power BI, Git
+•	Programming & Tools: Python, R, SQL, SAS (insurance-specific), Pandas, NumPy, Tableau, Microsoft Excel (Advanced), Power BI, Git
 •	Database Management: SQL, MySQL, PostgreSQL, MongoDB
 •	Machine Learning & Statistics: Scikit-learn, Tidyverse, H2O AutoML, Regression Analysis, Clustering
 •	Insurance-Specific Tools: Guidewire, Actuarial Models, Risk Analysis Software
 •	Cloud Platforms: AWS, Azure, Google Cloud
+
 #### Additional Skills
 •	Data Science Techniques: Data Visualization, Predictive Modeling, Web Development, Automation
 •	Soft Skills: Analytical Thinking, Problem-Solving, Effective Communication, Time Management, Collaboration
@@ -49,7 +50,6 @@ Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scr
 R Programming, Tidyverse, H2O AutoML, High Performance Time Series Forecasting, 
 Shiny Predictive Sales DashBoard, Feature Engineering, Amazon AWS EC2
 
-
 Courses:
 Data Import: readr & odbc
 Data Cleaning & Wrangling: dplyr & tidyr
@@ -69,6 +69,7 @@ Highlights: 600+ hours of coursework, 14 coding assignments, 3 projects (Web scr
 ### DeVry University, Keller Graduate School of Management 	                                2010 to 2013
                                                                    
 Master of Business Administration (MBA)
+Concentration: Project Management
 
 ### University of Computer Studies, Burma (Myanmar)                                         2005 to 2007
 
