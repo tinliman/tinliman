@@ -6,11 +6,14 @@ Hi there 👋  data scientists
 
 [DataCamp Portfolio](https://www.datacamp.com/portfolio/tinliman21)
 
+[Jovian Data Science BootCamp](https://jovian.com/tinliman21)
+
 [Shiny App Website](https://tinliman.shinyapps.io/sales_dashboard_forecast_app/)
 
 ### About Me
 
-With over 5 years of experience in the insurance industry, I am a highly skilled MBA graduate who is able to lead teams and develop innovative solutions to complex problems. My experience in underwriting and claims management has given me a deep understanding of risk assessment and management, and I'm able to quickly adapt to changes in the industry. Through my MBA program, I've gained expertise in analysis, strategic thinking, leadership, and project management, which have allowed me to successfully lead cross-functional teams and drive business results. I have a passion for data science and machine learning. 
+Professional Summary
+Results-oriented data professional with expertise in data analytics, machine learning, and predictive modeling, complemented by a strong foundation in insurance-specific tools and cloud platforms. Skilled in programming with Python, R, SQL, and SAS, as well as leveraging visualization tools like Tableau and Power BI for actionable insights. Proficient in managing complex databases using MySQL, PostgreSQL, and MongoDB, and experienced in deploying machine learning algorithms with Scikit-learn, Tidyverse, and H2O AutoML. Demonstrates strong problem-solving and analytical abilities, with a proven track record of collaboration, effective communication, and delivering data-driven solutions to optimize business processes.
 
 
 ### Skills
