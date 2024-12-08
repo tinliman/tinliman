@@ -12,7 +12,8 @@ Hi there 👋  data scientists
 
 ### About Me
 
-Professional Summary
+#### Professional Summary
+
 Results-oriented data professional with expertise in data analytics, machine learning, and predictive modeling, complemented by a strong foundation in insurance-specific tools and cloud platforms. Skilled in programming with Python, R, SQL, and SAS, as well as leveraging visualization tools like Tableau and Power BI for actionable insights. Proficient in managing complex databases using MySQL, PostgreSQL, and MongoDB, and experienced in deploying machine learning algorithms with Scikit-learn, Tidyverse, and H2O AutoML. Demonstrates strong problem-solving and analytical abilities, with a proven track record of collaboration, effective communication, and delivering data-driven solutions to optimize business processes.
 
 
